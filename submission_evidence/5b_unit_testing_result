@@ -1,0 +1,11 @@
+test_all_five_emotions_are_returned (test_emotion_detection.EmotionDetectionTests) ... ok
+test_blank_input_does_not_call_service (test_emotion_detection.EmotionDetectionTests) ... ok
+test_dominant_emotion_is_anger (test_emotion_detection.EmotionDetectionTests) ... ok
+test_dominant_emotion_is_joy (test_emotion_detection.EmotionDetectionTests) ... ok
+test_dominant_emotion_is_sadness (test_emotion_detection.EmotionDetectionTests) ... ok
+test_http_400_returns_none_values (test_emotion_detection.EmotionDetectionTests) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.005s
+
+OK
